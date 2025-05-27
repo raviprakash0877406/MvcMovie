@@ -126,3 +126,9 @@ added the code that mentioned in the instruction under the views/movies/index.cs
   Created the Github account with the college mail w0877406@myscc.ca
   2240
  Successfully Pushed the code to the github account.
+
+ 2025-05-27
+ 0935
+ Tested the app... It was running successfully.
+ 0940
+Updated the README and Pushed it into the github.
