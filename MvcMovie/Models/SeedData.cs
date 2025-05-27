@@ -46,7 +46,15 @@ public static class SeedData
                 },
                 new Movie
                 {
-                    Title = "Salar",
+                    Title = "Mission Impossible",
+                    ReleaseDate = DateTime.Parse("2025-05-17"),
+                    Genre = "Action",
+                    Rating = "8",
+                    Price = 7.99M
+                },
+                new Movie
+                {
+                    Title = "Salaar",
                     ReleaseDate = DateTime.Parse("2023-12-10"),
                     Genre = "Action",
                     Rating = "9.5",
