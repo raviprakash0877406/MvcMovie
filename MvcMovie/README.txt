@@ -108,8 +108,12 @@ added the code that mentioned in the instruction under the views/movies/index.cs
   Added a Rating property to Models/Movies.cs
   2154
   binded the app successfully.
+  
   2155
   edited the code , added a rating field under the /Views/Movies/Index.cshtml file.
+  20250527013405_Rating.cs
+
+
   2157
   updated the rating field in the views/Movies/Create.cshtml
   2158
